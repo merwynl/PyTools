@@ -1,3 +1,13 @@
+# Unreal Intermediates & Caches
+/PyTools/Saved
+/PyTools/DerivedDataCache
+/PyTools/Intermediate/Config
+/PyTools/Intermediate/Build
+/PyTools/Intermediate/PipInstall
+/PyTools/Intermediate/ReimportCache
+/PyTools/Intermediate/ShaderAutogen
+*bin
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
