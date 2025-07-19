@@ -1,10 +1,10 @@
-import unreal
 import os
 import sys
+import unreal
 
-def print_py_path():
-    for path in sys.path:
-        print (path)
+print(sys.path)
+print(sys.version)
+print(sys.version_info)
 
-        
-print_py_path()
+unreal.log("Logging something")
+unreal.log("Removed something")

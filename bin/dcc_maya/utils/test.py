@@ -1,3 +1,7 @@
-import pymel.core as pm
+print("Hello")
 
-pm.sphere()
+
+# import pymel.core as pm
+
+# pm.sphere()
+
